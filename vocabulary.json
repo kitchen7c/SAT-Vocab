@@ -4,7 +4,7 @@
         "word": "abate",
         "phonetic": "/əˈbeɪt/",
         "definition_en": "To become less intense or widespread.",
-        "definition_cn": "减少；减轻",
+        "definition_cn": "减少",
         "example": "The storm suddenly abated."
     },
     {
@@ -12,791 +12,1591 @@
         "word": "aberration",
         "phonetic": "/ˌæbəˈreɪʃən/",
         "definition_en": "A departure from what is normal, usual, or expected.",
-        "definition_cn": "反常现象；异常行为",
+        "definition_cn": "反常",
         "example": "The outbreak of violence was an aberration."
     },
     {
         "id": "3",
         "word": "abhor",
         "phonetic": "/əbˈhɔːr/",
-        "definition_en": "To regard with disgust and hatred.",
-        "definition_cn": "憎恶；痛恨",
-        "example": "I abhor all forms of racism."
+        "definition_en": "Regard with disgust and hatred.",
+        "definition_cn": "憎恶",
+        "example": "I abhor discrimination."
     },
     {
         "id": "4",
         "word": "abject",
         "phonetic": "/ˈæbdʒɛkt/",
-        "definition_en": "Experienced to the maximum degree (of something bad).",
-        "definition_cn": "凄惨的；绝望的",
-        "example": "They live in abject poverty."
+        "definition_en": "(of something bad) experienced to the maximum degree.",
+        "definition_cn": "凄惨的",
+        "example": "Abject poverty."
     },
     {
         "id": "5",
         "word": "abnegation",
         "phonetic": "/ˌæbnɪˈɡeɪʃən/",
         "definition_en": "The act of renouncing or rejecting something.",
-        "definition_cn": "放弃；克制",
-        "example": "Monks practice abnegation of material possessions."
+        "definition_cn": "放弃",
+        "example": "Abnegation of political power."
     },
     {
         "id": "6",
-        "word": "abortive",
-        "phonetic": "/əˈbɔːrtɪv/",
-        "definition_en": "Failing to produce the intended result.",
-        "definition_cn": "失败的；流产的",
-        "example": "An abortive attempt to overthrow the government."
-    },
-    {
-        "id": "7",
-        "word": "abridge",
-        "phonetic": "/əˈbrɪdʒ/",
-        "definition_en": "To shorten (a piece of writing) without losing the sense.",
-        "definition_cn": "删节；缩短",
-        "example": "The book was abridged for children."
-    },
-    {
-        "id": "8",
-        "word": "abrogate",
-        "phonetic": "/ˈæbrəɡeɪt/",
-        "definition_en": "To repeal or do away with (a law, right, or formal agreement).",
-        "definition_cn": "废除；取消",
-        "example": "The treaty was abrogated in 1929."
-    },
-    {
-        "id": "9",
-        "word": "abscond",
-        "phonetic": "/əbˈskɒnd/",
-        "definition_en": "To leave hurriedly and secretly, typically to avoid detection.",
-        "definition_cn": "潜逃；逃匿",
-        "example": "The cashier absconded with the money."
-    },
-    {
-        "id": "10",
-        "word": "absolution",
-        "phonetic": "/ˌæbsəˈluːʃən/",
-        "definition_en": "Formal release from guilt, obligation, or punishment.",
-        "definition_cn": "赦免；免罪",
-        "example": "The priest granted him absolution."
-    },
-    {
-        "id": "11",
-        "word": "abstain",
-        "phonetic": "/əbˈsteɪn/",
-        "definition_en": "To restrain oneself from doing or enjoying something.",
-        "definition_cn": "戒除；弃权",
-        "example": "He abstained from alcohol."
-    },
-    {
-        "id": "12",
         "word": "abstruse",
         "phonetic": "/əbˈstruːs/",
         "definition_en": "Difficult to understand; obscure.",
-        "definition_cn": "深奥的；难懂的",
+        "definition_cn": "深奥的",
         "example": "An abstruse philosophical inquiry."
     },
     {
-        "id": "13",
+        "id": "7",
         "word": "accede",
         "phonetic": "/ækˈsiːd/",
-        "definition_en": "To agree to a demand, request, or treaty.",
-        "definition_cn": "同意；就任",
+        "definition_en": "Agree to a demand, request, or treaty.",
+        "definition_cn": "同意",
         "example": "The authorities did not accede to the strikers' demands."
     },
     {
-        "id": "14",
-        "word": "accentuate",
-        "phonetic": "/ækˈsɛntʃueɪt/",
-        "definition_en": "To make more noticeable or prominent.",
-        "definition_cn": "强调；重读",
-        "example": "Her dress accentuated her figure."
-    },
-    {
-        "id": "15",
-        "word": "accolade",
-        "phonetic": "/ˈækəleɪd/",
-        "definition_en": "An award or privilege granted as a special honor.",
-        "definition_cn": "荣誉；赞美",
-        "example": "He received the highest accolade of his profession."
-    },
-    {
-        "id": "16",
-        "word": "acrimonious",
-        "phonetic": "/ˌækrɪˈmoʊniəs/",
-        "definition_en": "(typically of speech or debate) angry and bitter.",
-        "definition_cn": "尖刻的；激烈的",
-        "example": "An acrimonious divorce."
-    },
-    {
-        "id": "17",
+        "id": "8",
         "word": "acumen",
-        "phonetic": "/ˈækjəmən/",
+        "phonetic": "/ˈækjʊmən/",
         "definition_en": "The ability to make good judgments and quick decisions.",
-        "definition_cn": "敏锐；聪明",
+        "definition_cn": "敏锐",
         "example": "Business acumen."
     },
     {
-        "id": "18",
+        "id": "9",
         "word": "admonish",
         "phonetic": "/ədˈmɒnɪʃ/",
-        "definition_en": "To warn or reprimand someone firmly.",
-        "definition_cn": "告诫；责备",
+        "definition_en": "Warn or reprimand someone firmly.",
+        "definition_cn": "告诫",
         "example": "She admonished him for drinking too much."
     },
     {
-        "id": "19",
+        "id": "10",
         "word": "adroit",
         "phonetic": "/əˈdrɔɪt/",
         "definition_en": "Clever or skillful in using the hands or mind.",
-        "definition_cn": "灵巧的；机敏的",
+        "definition_cn": "灵巧的",
         "example": "He was adroit at tax avoidance."
     },
     {
-        "id": "20",
+        "id": "11",
         "word": "adulation",
         "phonetic": "/ˌædjuˈleɪʃən/",
         "definition_en": "Obsequious flattery; excessive admiration or praise.",
-        "definition_cn": "奉承；谄媚",
+        "definition_cn": "奉承",
         "example": "He found it difficult to cope with the adulation of the fans."
     },
     {
-        "id": "21",
+        "id": "12",
         "word": "adversity",
-        "phonetic": "/ədˈvɜːrsəti/",
+        "phonetic": "/ədˈvɜːrsɪti/",
         "definition_en": "Difficulties; misfortune.",
-        "definition_cn": "逆境；不幸",
+        "definition_cn": "逆境",
         "example": "Resilience in the face of adversity."
     },
     {
-        "id": "22",
+        "id": "13",
         "word": "aesthetic",
         "phonetic": "/ɛsˈθɛtɪk/",
         "definition_en": "Concerned with beauty or the appreciation of beauty.",
-        "definition_cn": "审美的；美学的",
+        "definition_cn": "审美的",
         "example": "The pictures give great aesthetic pleasure."
     },
     {
-        "id": "23",
+        "id": "14",
         "word": "affable",
         "phonetic": "/ˈæfəbəl/",
         "definition_en": "Friendly, good-natured, or easy to talk to.",
-        "definition_cn": "和蔼的；友善的",
+        "definition_cn": "和蔼的",
         "example": "An affable and agreeable companion."
     },
     {
-        "id": "24",
-        "word": "affectation",
-        "phonetic": "/ˌæfɛkˈteɪʃən/",
-        "definition_en": "Behavior, speech, or writing that is artificial and designed to impress.",
-        "definition_cn": "做作；矫揉造作",
-        "example": "The affectation of a man who measures every word."
-    },
-    {
-        "id": "25",
-        "word": "affluent",
-        "phonetic": "/ˈæfluənt/",
-        "definition_en": "(especially of a group or area) having a great deal of money; wealthy.",
-        "definition_cn": "富裕的；丰富的",
-        "example": "The affluent societies of the western world."
-    },
-    {
-        "id": "26",
-        "word": "aggrandize",
-        "phonetic": "/əˈɡrændaɪz/",
-        "definition_en": "To increase the power, status, or wealth of.",
-        "definition_cn": "扩大；增加",
-        "example": "An action intended to aggrandize the Frankish dynasty."
-    },
-    {
-        "id": "27",
+        "id": "15",
         "word": "alacrity",
-        "phonetic": "/əˈlækrɪti/",
+        "phonetic": "/əˈlækrəti/",
         "definition_en": "Brisk and cheerful readiness.",
-        "definition_cn": "敏捷；乐意",
-        "example": "She accepted the invitation with alacrity."
+        "definition_cn": "欣然",
+        "example": "She accepted with alacrity."
     },
     {
-        "id": "28",
-        "word": "allay",
-        "phonetic": "/əˈleɪ/",
-        "definition_en": "To diminish or put at rest (fear, suspicion, or worry).",
-        "definition_cn": "减轻；缓和",
-        "example": "The report attempted to allay fears."
-    },
-    {
-        "id": "29",
+        "id": "16",
         "word": "alleviate",
         "phonetic": "/əˈliːvieɪt/",
-        "definition_en": "To make (suffering, deficiency, or a problem) less severe.",
-        "definition_cn": "减轻；缓和",
+        "definition_en": "Make (suffering, deficiency, or a problem) less severe.",
+        "definition_cn": "减轻",
         "example": "He couldn't prevent her pain, only alleviate it."
     },
     {
-        "id": "30",
-        "word": "allude",
-        "phonetic": "/əˈluːd/",
-        "definition_en": "To suggest or call attention to indirectly; hint at.",
-        "definition_cn": "暗指；影射",
-        "example": "She had a way of alluding to Jean but never saying her name."
-    },
-    {
-        "id": "31",
-        "word": "altruism",
-        "phonetic": "/ˈæltruɪzəm/",
-        "definition_en": "The belief in or practice of disinterested and selfless concern for the well-being of others.",
-        "definition_cn": "利他主义；无私",
-        "example": "Some may choose to work with vulnerable elderly people out of altruism."
-    },
-    {
-        "id": "32",
-        "word": "amalgamate",
-        "phonetic": "/əˈmælɡəmeɪt/",
-        "definition_en": "To combine or unite to form one organization or structure.",
-        "definition_cn": "合并；混合",
-        "example": "He amalgamated his company with another."
-    },
-    {
-        "id": "33",
-        "word": "ambiguous",
-        "phonetic": "/æmˈbɪɡjuəs/",
-        "definition_en": "(of language) open to more than one interpretation; having a double meaning.",
-        "definition_cn": "模棱两可的；含糊的",
-        "example": "The question is rather ambiguous."
-    },
-    {
-        "id": "34",
+        "id": "17",
         "word": "ambivalent",
         "phonetic": "/æmˈbɪvələnt/",
         "definition_en": "Having mixed feelings or contradictory ideas about something or someone.",
-        "definition_cn": "矛盾的；好恶相克的",
-        "example": "Some loved her, some hated her, few were ambivalent about her."
+        "definition_cn": "矛盾的",
+        "example": "Some loved her, some hated her, few were ambivalent."
     },
     {
-        "id": "35",
+        "id": "18",
         "word": "ameliorate",
         "phonetic": "/əˈmiːliəreɪt/",
-        "definition_en": "To make (something bad or unsatisfactory) better.",
-        "definition_cn": "改善；改良",
+        "definition_en": "Make (something bad or unsatisfactory) better.",
+        "definition_cn": "改善",
         "example": "The reform did much to ameliorate living standards."
     },
     {
-        "id": "36",
-        "word": "amenable",
-        "phonetic": "/əˈmiːnəbəl/",
-        "definition_en": "(of a person) open and responsive to suggestion; easily persuaded or controlled.",
-        "definition_cn": "顺从的；通情达理的",
-        "example": "Parents who have had easy babies and amenable children."
+        "id": "19",
+        "word": "amicable",
+        "phonetic": "/ˈæmɪkəbəl/",
+        "definition_en": "(of relations between people) having a spirit of friendliness; without serious disagreement or rancor.",
+        "definition_cn": "友好的",
+        "example": "There will be an amicable settlement of the dispute."
     },
     {
-        "id": "37",
-        "word": "amiable",
-        "phonetic": "/ˈeɪmiəbəl/",
-        "definition_en": "Having or displaying a friendly and pleasant manner.",
-        "definition_cn": "和蔼可亲的；友好的",
-        "example": "An amiable, unassuming fellow."
-    },
-    {
-        "id": "38",
-        "word": "amorphous",
-        "phonetic": "/əˈmɔːrfəs/",
-        "definition_en": "Without a clearly defined shape or form.",
-        "definition_cn": "无定形的；杂乱的",
-        "example": "An amorphous, characterless conurbation."
-    },
-    {
-        "id": "39",
+        "id": "20",
         "word": "anachronism",
         "phonetic": "/əˈnækrənɪzəm/",
         "definition_en": "A thing belonging or appropriate to a period other than that in which it exists.",
-        "definition_cn": "时代错误；不合时宜的事物",
+        "definition_cn": "时代错误",
         "example": "Everything was as it would have appeared in centuries past apart from one anachronism, a bright yellow construction crane."
     },
     {
-        "id": "40",
-        "word": "analogous",
-        "phonetic": "/əˈnæləɡəs/",
-        "definition_en": "Comparable in certain respects, typically in a way that makes clearer the nature of the things compared.",
-        "definition_cn": "类似的；可比拟的",
-        "example": "They saw the relationship between a ruler and his subjects as analogous to that of father and children."
+        "id": "21",
+        "word": "anomalous",
+        "phonetic": "/əˈnɒmələs/",
+        "definition_en": "Deviating from what is standard, normal, or expected.",
+        "definition_cn": "反常的",
+        "example": "An anomalous situation."
     },
     {
-        "id": "41",
-        "word": "anarchy",
-        "phonetic": "/ˈænərki/",
-        "definition_en": "A state of disorder due to absence or nonrecognition of authority.",
-        "definition_cn": "无政府状态；混乱",
-        "example": "He must ensure public order in a country threatened with anarchy."
-    },
-    {
-        "id": "42",
-        "word": "anecdote",
-        "phonetic": "/ˈænɪkdoʊt/",
-        "definition_en": "A short and amusing or interesting story about a real incident or person.",
-        "definition_cn": "轶事；奇闻",
-        "example": "Told anecdotes about his job."
-    },
-    {
-        "id": "43",
-        "word": "animosity",
-        "phonetic": "/ˌænɪˈmɒsɪti/",
-        "definition_en": "Strong hostility.",
-        "definition_cn": "敌意；憎恨",
-        "example": "He no longer felt any animosity toward her."
-    },
-    {
-        "id": "44",
-        "word": "anomaly",
-        "phonetic": "/əˈnɒməli/",
-        "definition_en": "Something that deviates from what is standard, normal, or expected.",
-        "definition_cn": "异常；反常",
-        "example": "There are a number of anomalies in the present system."
-    },
-    {
-        "id": "45",
-        "word": "antagonism",
-        "phonetic": "/ænˈtæɡənɪzəm/",
-        "definition_en": "Active hostility or opposition.",
-        "definition_cn": "对抗；敌对",
-        "example": "The antagonism between the two brothers."
-    },
-    {
-        "id": "46",
+        "id": "22",
         "word": "antipathy",
         "phonetic": "/ænˈtɪpəθi/",
         "definition_en": "A deep-seated feeling of dislike; aversion.",
-        "definition_cn": "反感；厌恶",
+        "definition_cn": "反感",
         "example": "His fundamental antipathy to capitalism."
     },
     {
-        "id": "47",
+        "id": "23",
         "word": "apathy",
         "phonetic": "/ˈæpəθi/",
         "definition_en": "Lack of interest, enthusiasm, or concern.",
-        "definition_cn": "冷漠；无动于衷",
+        "definition_cn": "冷漠",
         "example": "Widespread apathy among students."
     },
     {
-        "id": "48",
+        "id": "24",
         "word": "appease",
         "phonetic": "/əˈpiːz/",
-        "definition_en": "To pacify or placate (someone) by acceding to their demands.",
-        "definition_cn": "安抚；平息",
+        "definition_en": "Pacify or placate (someone) by acceding to their demands.",
+        "definition_cn": "安抚",
         "example": "Amendments have been added to appease local pressure groups."
     },
     {
-        "id": "49",
-        "word": "apprehensive",
-        "phonetic": "/ˌæprɪˈhɛnsɪv/",
-        "definition_en": "Anxious or fearful that something bad or unpleasant will happen.",
-        "definition_cn": "忧虑的；担心的",
-        "example": "He felt apprehensive about going home."
-    },
-    {
-        "id": "50",
-        "word": "approbation",
-        "phonetic": "/ˌæprəˈbeɪʃən/",
-        "definition_en": "Approval or praise.",
-        "definition_cn": "认可；赞许",
-        "example": "The opera met with high approbation."
-    },
-    {
-        "id": "51",
-        "word": "arbitrary",
-        "phonetic": "/ˈɑːrbɪtrəri/",
-        "definition_en": "Based on random choice or personal whim, rather than any reason or system.",
-        "definition_cn": "任意的；武断的",
-        "example": "His mealtimes were entirely arbitrary."
-    },
-    {
-        "id": "52",
+        "id": "25",
         "word": "arcane",
         "phonetic": "/ɑːrˈkeɪn/",
         "definition_en": "Understood by few; mysterious or secret.",
-        "definition_cn": "晦涩难懂的；神秘的",
+        "definition_cn": "晦涩的",
         "example": "Modern math and its arcane notation."
     },
     {
-        "id": "53",
-        "word": "archaic",
-        "phonetic": "/ɑːrˈkeɪɪk/",
-        "definition_en": "Very old or old-fashioned.",
-        "definition_cn": "古老的；过时的",
-        "example": "Prisons are run on archaic methods."
-    },
-    {
-        "id": "54",
-        "word": "archetype",
-        "phonetic": "/ˈɑːrkɪtaɪp/",
-        "definition_en": "A very typical example of a certain person or thing.",
-        "definition_cn": "原型；典型",
-        "example": "The book is a perfect archetype of the genre."
-    },
-    {
-        "id": "55",
+        "id": "26",
         "word": "arduous",
-        "phonetic": "/ˈɑːrdʒuəs/",
+        "phonetic": "/ˈɑːrdjuəs/",
         "definition_en": "Involving or requiring strenuous effort; difficult and tiring.",
-        "definition_cn": "艰巨的；费力的",
+        "definition_cn": "艰巨的",
         "example": "An arduous journey."
     },
     {
-        "id": "56",
+        "id": "27",
         "word": "articulate",
         "phonetic": "/ɑːrˈtɪkjʊleɪt/",
         "definition_en": "(of a person or a person's words) having or showing the ability to speak fluently and coherently.",
-        "definition_cn": "清晰表达的；口齿伶俐的",
+        "definition_cn": "清晰表达的",
         "example": "An articulate account of their experiences."
     },
     {
-        "id": "57",
-        "word": "artifice",
-        "phonetic": "/ˈɑːrtɪfɪs/",
-        "definition_en": "Clever or cunning devices or expedients, especially as used to trick or deceive others.",
-        "definition_cn": "诡计；欺骗",
-        "example": "Artifice and intrigue."
-    },
-    {
-        "id": "58",
+        "id": "28",
         "word": "ascetic",
         "phonetic": "/əˈsɛtɪk/",
         "definition_en": "Characterized by or suggesting the practice of severe self-discipline and abstention from all forms of indulgence.",
-        "definition_cn": "苦行的；禁欲的",
+        "definition_cn": "苦行的",
         "example": "An ascetic life of prayer, fasting, and manual labor."
     },
     {
-        "id": "59",
-        "word": "assiduous",
-        "phonetic": "/əˈsɪdʒuəs/",
-        "definition_en": "Showing great care and perseverance.",
-        "definition_cn": "勤勉的；刻苦的",
-        "example": "She was assiduous in pointing out every feature."
-    },
-    {
-        "id": "60",
+        "id": "29",
         "word": "assuage",
         "phonetic": "/əˈsweɪdʒ/",
-        "definition_en": "To make (an unpleasant feeling) less intense.",
-        "definition_cn": "缓和；减轻",
+        "definition_en": "Make (an unpleasant feeling) less intense.",
+        "definition_cn": "缓和",
         "example": "The letter assuaged the fears of most members."
     },
     {
-        "id": "61",
-        "word": "astute",
-        "phonetic": "/əˈstjuːt/",
-        "definition_en": "Having or showing an ability to accurately assess situations or people and turn this to one's advantage.",
-        "definition_cn": "精明的；狡猾的",
-        "example": "An astute businessman."
-    },
-    {
-        "id": "62",
-        "word": "atrophy",
-        "phonetic": "/ˈætrəfi/",
-        "definition_en": "(of body tissue or an organ) waste away, typically due to the degeneration of cells.",
-        "definition_cn": "萎缩；衰退",
-        "example": "Without exercise, the muscles will atrophy."
-    },
-    {
-        "id": "63",
+        "id": "30",
         "word": "audacious",
         "phonetic": "/ɔːˈdeɪʃəs/",
         "definition_en": "Showing a willingness to take surprisingly bold risks.",
-        "definition_cn": "大胆的；鲁莽的",
+        "definition_cn": "大胆的",
         "example": "A series of audacious attacks."
     },
     {
-        "id": "64",
-        "word": "augment",
-        "phonetic": "/ɔːɡˈmɛnt/",
-        "definition_en": "To make (something) greater by adding to it; increase.",
-        "definition_cn": "增加；提高",
-        "example": "He augmented his summer income by painting houses."
-    },
-    {
-        "id": "65",
+        "id": "31",
         "word": "austere",
         "phonetic": "/ɔːˈstɪər/",
         "definition_en": "Severe or strict in manner, attitude, or appearance.",
-        "definition_cn": "严厉的；简朴的",
+        "definition_cn": "严厉的",
         "example": "An austere man, with a rigidly puritanical outlook."
     },
     {
-        "id": "66",
-        "word": "autonomous",
-        "phonetic": "/ɔːˈtɒnəməs/",
-        "definition_en": "(of a country or region) having the freedom to govern itself or control its own affairs.",
-        "definition_cn": "自治的；自主的",
-        "example": "The federation included sixteen autonomous republics."
+        "id": "32",
+        "word": "autonomy",
+        "phonetic": "/ɔːˈtɒnəmi/",
+        "definition_en": "The right or condition of self-government.",
+        "definition_cn": "自治",
+        "example": "Tatarstan demanded greater autonomy within the Russian Federation."
     },
     {
-        "id": "67",
-        "word": "avarice",
-        "phonetic": "/ˈævərɪs/",
-        "definition_en": "Extreme greed for wealth or material gain.",
-        "definition_cn": "贪婪",
-        "example": "He was rich beyond the dreams of avarice."
-    },
-    {
-        "id": "68",
-        "word": "aversion",
-        "phonetic": "/əˈvɜːrʒən/",
-        "definition_en": "A strong dislike or disinclination.",
-        "definition_cn": "厌恶；讨厌",
-        "example": "He had a deep-seated aversion to most forms of exercise."
-    },
-    {
-        "id": "69",
+        "id": "33",
         "word": "banal",
         "phonetic": "/bəˈnɑːl/",
         "definition_en": "So lacking in originality as to be obvious and boring.",
-        "definition_cn": "平庸的；陈腐的",
+        "definition_cn": "陈腐的",
         "example": "Songs with banal, repeated words."
     },
     {
-        "id": "70",
-        "word": "bane",
-        "phonetic": "/beɪn/",
-        "definition_en": "A cause of great distress or annoyance.",
-        "definition_cn": "祸根；灾星",
-        "example": "The bane of the decorator's existence."
-    },
-    {
-        "id": "71",
+        "id": "34",
         "word": "belie",
         "phonetic": "/bɪˈlaɪ/",
-        "definition_en": "To fail to give a true notion or impression of (something); disguise or contradict.",
-        "definition_cn": "掩饰；证明...为虚假",
+        "definition_en": "Fail to give a true notion or impression of (something); disguise or contradict.",
+        "definition_cn": "掩饰",
         "example": "His lively, alert manner belied his years."
     },
     {
-        "id": "72",
-        "word": "belittle",
-        "phonetic": "/bɪˈlɪtəl/",
-        "definition_en": "To make (someone or something) seem unimportant.",
-        "definition_cn": "轻视；贬低",
-        "example": "This is not to belittle his role."
-    },
-    {
-        "id": "73",
+        "id": "35",
         "word": "belligerent",
         "phonetic": "/bəˈlɪdʒərənt/",
         "definition_en": "Hostile and aggressive.",
-        "definition_cn": "好战的；交战的",
-        "example": "A bull-necked, belligerent old man."
+        "definition_cn": "好战的",
+        "example": "A belligerent old man."
     },
     {
-        "id": "74",
+        "id": "36",
         "word": "benevolent",
         "phonetic": "/bəˈnɛvələnt/",
         "definition_en": "Well meaning and kindly.",
-        "definition_cn": "仁慈的；慈善的",
+        "definition_cn": "仁慈的",
         "example": "A benevolent smile."
     },
     {
-        "id": "75",
+        "id": "37",
         "word": "benign",
         "phonetic": "/bɪˈnaɪn/",
         "definition_en": "Gentle; kindly.",
-        "definition_cn": "良性的；和蔼的",
+        "definition_cn": "良性的",
         "example": "Her face was calm and benign."
     },
     {
-        "id": "76",
-        "word": "bequeath",
-        "phonetic": "/bɪˈkwiːð/",
-        "definition_en": "To leave (a personal estate or one's body) to a person or other beneficiary by a will.",
-        "definition_cn": "遗赠；传下",
-        "example": "He bequeathed his art collection to the town."
-    },
-    {
-        "id": "77",
-        "word": "berate",
-        "phonetic": "/bɪˈreɪt/",
-        "definition_en": "To scold or criticize (someone) angrily.",
-        "definition_cn": "严责；申斥",
-        "example": "His mother came out and berated him for raising his voice."
-    },
-    {
-        "id": "78",
-        "word": "bereft",
-        "phonetic": "/bɪˈrɛft/",
-        "definition_en": "Deprived of or lacking something, especially a nonmaterial asset.",
-        "definition_cn": "丧失的；被剥夺的",
-        "example": "Her room was stark and bereft of color."
-    },
-    {
-        "id": "79",
-        "word": "blandishment",
-        "phonetic": "/ˈblændɪʃmənt/",
-        "definition_en": "A flattering or pleasing statement or action used to persuade someone gently to do something.",
-        "definition_cn": "奉承；甜言蜜语",
-        "example": "The blandishments of the travel brochure."
-    },
-    {
-        "id": "80",
-        "word": "blight",
-        "phonetic": "/blaɪt/",
-        "definition_en": "A thing that spoils or damages something.",
-        "definition_cn": "枯萎病；不良影响",
-        "example": "The vacant properties are a blight on the neighborhood."
-    },
-    {
-        "id": "81",
+        "id": "38",
         "word": "bolster",
         "phonetic": "/ˈboʊlstər/",
-        "definition_en": "To support or strengthen; prop up.",
-        "definition_cn": "支持；加强",
-        "example": "The fall in interest rates is starting to bolster confidence."
+        "definition_en": "Support or strengthen; prop up.",
+        "definition_cn": "支持",
+        "example": "The fall in interest rates started to bolster confidence."
     },
     {
-        "id": "82",
+        "id": "39",
         "word": "bombastic",
         "phonetic": "/bɒmˈbæstɪk/",
         "definition_en": "High-sounding but with little meaning; inflated.",
-        "definition_cn": "夸大的；言过其实的",
+        "definition_cn": "夸夸其谈的",
         "example": "Bombastic rhetoric."
     },
     {
-        "id": "83",
+        "id": "40",
         "word": "brevity",
-        "phonetic": "/ˈbrɛvɪti/",
+        "phonetic": "/ˈbrɛvəti/",
         "definition_en": "Concise and exact use of words in writing or speech.",
-        "definition_cn": "简洁；短暂",
-        "example": "The staff will appreciate the brevity of the meeting."
+        "definition_cn": "简洁",
+        "example": "The brevity of the report."
     },
     {
-        "id": "84",
-        "word": "brusque",
-        "phonetic": "/brʌsk/",
-        "definition_en": "Abrupt or offhand in speech or manner.",
-        "definition_cn": "唐突的；直率的",
-        "example": "She could be brusque and impatient."
-    },
-    {
-        "id": "85",
+        "id": "41",
         "word": "bucolic",
         "phonetic": "/bjuːˈkɒlɪk/",
         "definition_en": "Relating to the pleasant aspects of the countryside and country life.",
-        "definition_cn": "田园的；乡村的",
+        "definition_cn": "田园的",
         "example": "The church is lovely for its bucolic setting."
     },
     {
-        "id": "86",
+        "id": "42",
         "word": "burgeon",
         "phonetic": "/ˈbɜːrdʒən/",
-        "definition_en": "To begin to grow or increase rapidly; flourish.",
+        "definition_en": "Begin to grow or increase rapidly; flourish.",
         "definition_cn": "萌芽；迅速发展",
         "example": "Manufacturers are keen to cash in on the burgeoning demand."
     },
     {
-        "id": "87",
+        "id": "43",
         "word": "cacophony",
         "phonetic": "/kəˈkɒfəni/",
         "definition_en": "A harsh, discordant mixture of sounds.",
-        "definition_cn": "刺耳的声音；杂音",
+        "definition_cn": "刺耳的声音",
         "example": "A cacophony of deafening alarm bells."
     },
     {
-        "id": "88",
+        "id": "44",
         "word": "cajole",
         "phonetic": "/kəˈdʒoʊl/",
-        "definition_en": "To persuade someone to do something by sustained coaxing or flattery.",
-        "definition_cn": "哄骗；劝诱",
+        "definition_en": "Persuade someone to do something by sustained coaxing or flattery.",
+        "definition_cn": "哄骗",
         "example": "He hoped to cajole her into selling the house."
     },
     {
-        "id": "89",
-        "word": "calamity",
-        "phonetic": "/kəˈlæmɪti/",
-        "definition_en": "An event causing great and often sudden damage or distress; a disaster.",
-        "definition_cn": "灾难；不幸",
-        "example": "The journey had led to calamity and ruin."
+        "id": "45",
+        "word": "callous",
+        "phonetic": "/ˈkæləs/",
+        "definition_en": "Showing or having an insensitive and cruel disregard for others.",
+        "definition_cn": "冷酷的",
+        "example": "His callous comments about the murder made me shiver."
     },
     {
-        "id": "90",
+        "id": "46",
         "word": "candor",
         "phonetic": "/ˈkændər/",
         "definition_en": "The quality of being open and honest in expression; frankness.",
-        "definition_cn": "坦白；直率",
+        "definition_cn": "坦率",
         "example": "A man of refreshing candor."
     },
     {
-        "id": "91",
+        "id": "47",
         "word": "capricious",
         "phonetic": "/kəˈprɪʃəs/",
         "definition_en": "Given to sudden and unaccountable changes of mood or behavior.",
-        "definition_cn": "反复无常的；任性的",
+        "definition_cn": "反复无常的",
         "example": "A capricious and often brutal administration."
     },
     {
-        "id": "92",
+        "id": "48",
         "word": "castigate",
         "phonetic": "/ˈkæstɪɡeɪt/",
-        "definition_en": "To reprimand (someone) severely.",
-        "definition_cn": "严厉责骂；惩罚",
+        "definition_en": "Reprimand (someone) severely.",
+        "definition_cn": "严厉责骂",
         "example": "He was castigated for not setting a good example."
     },
     {
-        "id": "93",
-        "word": "catalyst",
-        "phonetic": "/ˈkætəlɪst/",
-        "definition_en": "A person or thing that precipitates an event.",
-        "definition_cn": "催化剂；促使变化的人或事",
-        "example": "The governor's speech acted as a catalyst for debate."
-    },
-    {
-        "id": "94",
+        "id": "49",
         "word": "caustic",
         "phonetic": "/ˈkɔːstɪk/",
         "definition_en": "Sarcastic in a scathing and bitter way.",
-        "definition_cn": "刻薄的；腐蚀性的",
+        "definition_cn": "刻薄的",
         "example": "The players were making caustic comments about the refereeing."
     },
     {
-        "id": "95",
+        "id": "50",
         "word": "censure",
         "phonetic": "/ˈsɛnʃər/",
-        "definition_en": "Express severe disapproval of (someone or something), typically in a formal statement.",
-        "definition_cn": "谴责；责难",
-        "example": "A judge was censured in 1983 for a variety of injudicious conduct."
+        "definition_en": "Express severe disapproval of.",
+        "definition_cn": "谴责",
+        "example": "A judge was censured in 1983."
     },
     {
-        "id": "96",
+        "id": "51",
         "word": "charlatan",
         "phonetic": "/ˈʃɑːrlətən/",
         "definition_en": "A person falsely claiming to have a special knowledge or skill; a fraud.",
-        "definition_cn": "骗子；江湖郎中",
+        "definition_cn": "江湖骗子",
         "example": "A self-confessed con artist and charlatan."
     },
     {
+        "id": "52",
+        "word": "circumspect",
+        "phonetic": "/ˈsɜːrkəmspɛkt/",
+        "definition_en": "Wary and unwilling to take risks.",
+        "definition_cn": "谨慎的",
+        "example": "The officials were very circumspect in their statements."
+    },
+    {
+        "id": "53",
+        "word": "clandestine",
+        "phonetic": "/klænˈdɛstɪn/",
+        "definition_en": "Kept secret or done secretively, especially because illicit.",
+        "definition_cn": "秘密的",
+        "example": "She deserved better than these clandestine meetings."
+    },
+    {
+        "id": "54",
+        "word": "coalesce",
+        "phonetic": "/ˌkoʊəˈlɛs/",
+        "definition_en": "Come together and form one mass or whole.",
+        "definition_cn": "合并",
+        "example": "The puddles had coalesced into a small stream."
+    },
+    {
+        "id": "55",
+        "word": "coerce",
+        "phonetic": "/koʊˈɜːrs/",
+        "definition_en": "Persuade (an unwilling person) to do something by using force or threats.",
+        "definition_cn": "强迫",
+        "example": "They were coerced into silence."
+    },
+    {
+        "id": "56",
+        "word": "cogent",
+        "phonetic": "/ˈkoʊdʒənt/",
+        "definition_en": "Clear, logical, and convincing.",
+        "definition_cn": "有说服力的",
+        "example": "Cogent arguments."
+    },
+    {
+        "id": "57",
+        "word": "complacent",
+        "phonetic": "/kəmˈpleɪsənt/",
+        "definition_en": "Showing smug or uncritical satisfaction with oneself or one's achievements.",
+        "definition_cn": "自满的",
+        "example": "You can't afford to be complacent about security."
+    },
+    {
+        "id": "58",
+        "word": "conciliatory",
+        "phonetic": "/kənˈsɪliətɔːri/",
+        "definition_en": "Intended or likely to placate or pacify.",
+        "definition_cn": "安抚的",
+        "example": "A conciliatory approach."
+    },
+    {
+        "id": "59",
+        "word": "concur",
+        "phonetic": "/kənˈkɜːr/",
+        "definition_en": "Be of the same opinion; agree.",
+        "definition_cn": "同意",
+        "example": "The authors concurred with the majority."
+    },
+    {
+        "id": "60",
+        "word": "confluence",
+        "phonetic": "/ˈkɒnfluəns/",
+        "definition_en": "The junction of two rivers, especially rivers of approximately equal width.",
+        "definition_cn": "汇合",
+        "example": "The confluence of the Blue and White Niles."
+    },
+    {
+        "id": "61",
+        "word": "congenial",
+        "phonetic": "/kənˈdʒiːniəl/",
+        "definition_en": "(of a person) pleasant because of a personality, qualities, or interests that are similar to one's own.",
+        "definition_cn": "意气相投的",
+        "example": "His need for some congenial company."
+    },
+    {
+        "id": "62",
+        "word": "conjecture",
+        "phonetic": "/kənˈdʒɛktʃər/",
+        "definition_en": "An opinion or conclusion formed on the basis of incomplete information.",
+        "definition_cn": "推测",
+        "example": "Conjectures about the newcomer were many and varied."
+    },
+    {
+        "id": "63",
+        "word": "copious",
+        "phonetic": "/ˈkoʊpiəs/",
+        "definition_en": "Abundant in supply or quantity.",
+        "definition_cn": "丰富的",
+        "example": "She took copious notes."
+    },
+    {
+        "id": "64",
+        "word": "corroborate",
+        "phonetic": "/kəˈrɒbəreɪt/",
+        "definition_en": "Confirm or give support to (a statement, theory, or finding).",
+        "definition_cn": "证实",
+        "example": "The witness had corroborated the boy's account of the attack."
+    },
+    {
+        "id": "65",
+        "word": "culpable",
+        "phonetic": "/ˈkʌlpəbəl/",
+        "definition_en": "Deserving blame.",
+        "definition_cn": "应受谴责的",
+        "example": "Sometimes you're just as culpable when you watch something as when you actually participate."
+    },
+    {
+        "id": "66",
+        "word": "cursory",
+        "phonetic": "/ˈkɜːrsəri/",
+        "definition_en": "Hasty and therefore not thorough or detailed.",
+        "definition_cn": "草率的",
+        "example": "A cursory glance at the figures."
+    },
+    {
+        "id": "67",
+        "word": "daunt",
+        "phonetic": "/dɔːnt/",
+        "definition_en": "Make (someone) feel intimidated or apprehensive.",
+        "definition_cn": "使胆怯",
+        "example": "Some people are daunted by technology."
+    },
+    {
+        "id": "68",
+        "word": "dearth",
+        "phonetic": "/dɜːrθ/",
+        "definition_en": "A scarcity or lack of something.",
+        "definition_cn": "缺乏",
+        "example": "There is a dearth of evidence."
+    },
+    {
+        "id": "69",
+        "word": "debacle",
+        "phonetic": "/deɪˈbɑːkəl/",
+        "definition_en": "A sudden and ignominious failure; a fiasco.",
+        "definition_cn": "崩溃",
+        "example": "The economic debacle."
+    },
+    {
+        "id": "70",
+        "word": "debilitate",
+        "phonetic": "/dɪˈbɪlɪteɪt/",
+        "definition_en": "Make (someone) weak and infirm.",
+        "definition_cn": "使衰弱",
+        "example": "He was severely debilitated by a stomach upset."
+    },
+    {
+        "id": "71",
+        "word": "debunk",
+        "phonetic": "/diːˈbʌŋk/",
+        "definition_en": "Expose the falseness or hollowness of (a myth, idea, or belief).",
+        "definition_cn": "揭穿",
+        "example": "The magazine that debunks claims of the paranormal."
+    },
+    {
+        "id": "72",
+        "word": "decorum",
+        "phonetic": "/dɪˈkɔːrəm/",
+        "definition_en": "Behavior in keeping with good taste and propriety.",
+        "definition_cn": "礼貌",
+        "example": "You exhibit remarkable modesty and decorum."
+    },
+    {
+        "id": "73",
+        "word": "deference",
+        "phonetic": "/ˈdɛfərəns/",
+        "definition_en": "Humble submission and respect.",
+        "definition_cn": "顺从",
+        "example": "He addressed her with deference."
+    },
+    {
+        "id": "74",
+        "word": "delineate",
+        "phonetic": "/dɪˈlɪnieɪt/",
+        "definition_en": "Describe or portray (something) precisely.",
+        "definition_cn": "描绘",
+        "example": "The law should delineate and prohibit behavior that is socially abhorrent."
+    },
+    {
+        "id": "75",
+        "word": "demagogue",
+        "phonetic": "/ˈdɛməɡɒɡ/",
+        "definition_en": "A political leader who seeks support by appealing to the desires and prejudices of ordinary people rather than by using rational argument.",
+        "definition_cn": "煽动者",
+        "example": "A gifted demagogue with particular skill in manipulating the press."
+    },
+    {
+        "id": "76",
+        "word": "denounce",
+        "phonetic": "/dɪˈnaʊns/",
+        "definition_en": "Publicly declare to be wrong or evil.",
+        "definition_cn": "谴责",
+        "example": "The Assembly denounced the use of violence."
+    },
+    {
+        "id": "77",
+        "word": "deride",
+        "phonetic": "/dɪˈraɪd/",
+        "definition_en": "Express contempt for; ridicule.",
+        "definition_cn": "嘲笑",
+        "example": "Critics derided the proposals as clumsy attempts to find a solution."
+    },
+    {
+        "id": "78",
+        "word": "derivative",
+        "phonetic": "/dɪˈrɪvətɪv/",
+        "definition_en": "Imitative of the work of another person, and usually disapproved of for that reason.",
+        "definition_cn": "衍生的；缺乏独创性的",
+        "example": "An artist who is not in the slightest bit derivative."
+    },
+    {
+        "id": "79",
+        "word": "despot",
+        "phonetic": "/ˈdɛspɒt/",
+        "definition_en": "A ruler or other person who holds absolute power, typically one who exercises it in a cruel or oppressive way.",
+        "definition_cn": "暴君",
+        "example": "A benevolent despot."
+    },
+    {
+        "id": "80",
+        "word": "deterrent",
+        "phonetic": "/dɪˈtɛrənt/",
+        "definition_en": "A thing that discourages or is intended to discourage someone from doing something.",
+        "definition_cn": "威慑",
+        "example": "Cameras are a major deterrent to crime."
+    },
+    {
+        "id": "81",
+        "word": "didactic",
+        "phonetic": "/daɪˈdæktɪk/",
+        "definition_en": "Intended to teach, particularly in having moral instruction as an ulterior motive.",
+        "definition_cn": "说教的",
+        "example": "A didactic novel that set out to expose social injustice."
+    },
+    {
+        "id": "82",
+        "word": "diffident",
+        "phonetic": "/ˈdɪfɪdənt/",
+        "definition_en": "Modest or shy because of a lack of self-confidence.",
+        "definition_cn": "缺乏自信的",
+        "example": "A diffident youth."
+    },
+    {
+        "id": "83",
+        "word": "digression",
+        "phonetic": "/daɪˈɡrɛʃən/",
+        "definition_en": "A temporary departure from the main subject in speech or writing.",
+        "definition_cn": "离题",
+        "example": "Let's return to the main topic after that brief digression."
+    },
+    {
+        "id": "84",
+        "word": "diligent",
+        "phonetic": "/ˈdɪlɪdʒənt/",
+        "definition_en": "Having or showing care and conscientiousness in one's work or duties.",
+        "definition_cn": "勤勉的",
+        "example": "Many caves are located only after a diligent search."
+    },
+    {
+        "id": "85",
+        "word": "discrepancy",
+        "phonetic": "/dɪˈskrɛpənsi/",
+        "definition_en": "A lack of compatibility or similarity between two or more facts.",
+        "definition_cn": "差异",
+        "example": "There's a discrepancy between your account and his."
+    },
+    {
+        "id": "86",
+        "word": "disdain",
+        "phonetic": "/dɪsˈdeɪn/",
+        "definition_en": "The feeling that someone or something is unworthy of one's consideration or respect; contempt.",
+        "definition_cn": "蔑视",
+        "example": "Her upper lip curled in disdain."
+    },
+    {
+        "id": "87",
+        "word": "disingenuous",
+        "phonetic": "/ˌdɪsɪnˈdʒɛnjuəs/",
+        "definition_en": "Not candid or sincere, typically by pretending that one knows less than one really does.",
+        "definition_cn": "虚伪的",
+        "example": "This journalist was being somewhat disingenuous as well as cynical."
+    },
+    {
+        "id": "88",
+        "word": "disparate",
+        "phonetic": "/ˈdɪspərət/",
+        "definition_en": "Essentially different in kind; not allowing comparison.",
+        "definition_cn": "迥然不同的",
+        "example": "They inhabit disparate worlds of thought."
+    },
+    {
+        "id": "89",
+        "word": "disseminate",
+        "phonetic": "/dɪˈsɛmɪneɪt/",
+        "definition_en": "Spread (something, especially information) widely.",
+        "definition_cn": "传播",
+        "example": "Health authorities should foster good practice by disseminating information."
+    },
+    {
+        "id": "90",
+        "word": "dissent",
+        "phonetic": "/dɪˈsɛnt/",
+        "definition_en": "The expression or holding of opinions at variance with those previously, commonly, or officially held.",
+        "definition_cn": "异议",
+        "example": "There was no dissent from this view."
+    },
+    {
+        "id": "91",
+        "word": "dogmatic",
+        "phonetic": "/dɒɡˈmætɪk/",
+        "definition_en": "Inclined to lay down principles as incontrovertibly true.",
+        "definition_cn": "教条的",
+        "example": "He gives his opinion without trying to be dogmatic."
+    },
+    {
+        "id": "92",
+        "word": "dormant",
+        "phonetic": "/ˈdɔːrmənt/",
+        "definition_en": "(of an animal) having normal physical functions suspended or slowed down for a period of time; in or as if in a deep sleep.",
+        "definition_cn": "休眠的",
+        "example": "Dormant butterflies."
+    },
+    {
+        "id": "93",
+        "word": "duplicity",
+        "phonetic": "/djuːˈplɪsɪti/",
+        "definition_en": "Deceitfulness; double-dealing.",
+        "definition_cn": "欺骗",
+        "example": "The president was accused of duplicity in his dealings with Congress."
+    },
+    {
+        "id": "94",
+        "word": "ebullient",
+        "phonetic": "/ɪˈbʌliənt/",
+        "definition_en": "Cheerful and full of energy.",
+        "definition_cn": "热情洋溢的",
+        "example": "She sounded ebullient and happy."
+    },
+    {
+        "id": "95",
+        "word": "eclectic",
+        "phonetic": "/ɪˈklɛktɪk/",
+        "definition_en": "Deriving ideas, style, or taste from a broad and diverse range of sources.",
+        "definition_cn": "折衷的",
+        "example": "Her musical tastes are eclectic."
+    },
+    {
+        "id": "96",
+        "word": "efficacy",
+        "phonetic": "/ˈɛfɪkəsi/",
+        "definition_en": "The ability to produce a desired or intended result.",
+        "definition_cn": "功效",
+        "example": "There is little information on the efficacy of this treatment."
+    },
+    {
         "id": "97",
-        "word": "chide",
-        "phonetic": "/tʃaɪd/",
-        "definition_en": "To scold or rebuke.",
-        "definition_cn": "责骂；斥责",
-        "example": "She chided him for not replying to her letters."
+        "word": "egregious",
+        "phonetic": "/ɪˈɡriːdʒəs/",
+        "definition_en": "Outstandingly bad; shocking.",
+        "definition_cn": "极坏的",
+        "example": "Egregious abuses of copyright."
     },
     {
         "id": "98",
-        "word": "chronicle",
-        "phonetic": "/ˈkrɒnɪkəl/",
-        "definition_en": "A factual written account of important or historical events in the order of their occurrence.",
-        "definition_cn": "编年史；记录",
-        "example": "A vast chronicle of Spanish history."
+        "word": "eloquent",
+        "phonetic": "/ˈɛləkwənt/",
+        "definition_en": "Fluent or persuasive in speaking or writing.",
+        "definition_cn": "雄辩的",
+        "example": "An eloquent speech."
     },
     {
         "id": "99",
-        "word": "circuitous",
-        "phonetic": "/sərˈkjuːɪtəs/",
-        "definition_en": "(of a route or journey) longer than the most direct way.",
-        "definition_cn": "迂回的；绕行的",
-        "example": "The canal followed a circuitous route."
+        "word": "elucidate",
+        "phonetic": "/ɪˈluːsɪdeɪt/",
+        "definition_en": "Make (something) clear; explain.",
+        "definition_cn": "阐明",
+        "example": "Work such as theirs will help to elucidate this matter."
     },
     {
         "id": "100",
-        "word": "circumscribe",
-        "phonetic": "/ˈsɜːrkəmskraɪb/",
-        "definition_en": "To restrict (something) within limits.",
-        "definition_cn": "限制；包围",
-        "example": "Their movements were strictly circumscribed."
+        "word": "elusive",
+        "phonetic": "/ɪˈluːsɪv/",
+        "definition_en": "Difficult to find, catch, or achieve.",
+        "definition_cn": "难懂的；难捉摸的",
+        "example": "Success will become ever more elusive."
+    },
+    {
+        "id": "101",
+        "word": "emulate",
+        "phonetic": "/ˈɛmjʊleɪt/",
+        "definition_en": "Match or surpass (a person or achievement), typically by imitation.",
+        "definition_cn": "模仿",
+        "example": "Lesser men trying to emulate his greatness."
+    },
+    {
+        "id": "102",
+        "word": "enervate",
+        "phonetic": "/ˈɛnərveɪt/",
+        "definition_en": "Cause (someone) to feel drained of energy or vitality; weaken.",
+        "definition_cn": "使衰弱",
+        "example": "The heat enervated us all."
+    },
+    {
+        "id": "103",
+        "word": "engender",
+        "phonetic": "/ɪnˈdʒɛndər/",
+        "definition_en": "Cause or give rise to (a feeling, situation, or condition).",
+        "definition_cn": "产生",
+        "example": "The issue engendered continuing controversy."
+    },
+    {
+        "id": "104",
+        "word": "enigma",
+        "phonetic": "/ɪˈnɪɡmə/",
+        "definition_en": "A person or thing that is mysterious, puzzling, or difficult to understand.",
+        "definition_cn": "谜",
+        "example": "Madeleine was still an enigma to him."
+    },
+    {
+        "id": "105",
+        "word": "ephemeral",
+        "phonetic": "/ɪˈfɛmərəl/",
+        "definition_en": "Lasting for a very short time.",
+        "definition_cn": "短暂的",
+        "example": "Fashions are ephemeral."
+    },
+    {
+        "id": "106",
+        "word": "equivocal",
+        "phonetic": "/ɪˈkwɪvəkəl/",
+        "definition_en": "Open to more than one interpretation; ambiguous.",
+        "definition_cn": "模棱两可的",
+        "example": "The equivocal nature of her remarks."
+    },
+    {
+        "id": "107",
+        "word": "erudite",
+        "phonetic": "/ˈɛrʊdaɪt/",
+        "definition_en": "Having or showing great knowledge or learning.",
+        "definition_cn": "博学的",
+        "example": "Ken could turn any conversation into an erudite discussion."
+    },
+    {
+        "id": "108",
+        "word": "esoteric",
+        "phonetic": "/ˌɛsəˈtɛrɪk/",
+        "definition_en": "Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.",
+        "definition_cn": "深奥的",
+        "example": "Esoteric philosophical debates."
+    },
+    {
+        "id": "109",
+        "word": "eulogy",
+        "phonetic": "/ˈjuːlədʒi/",
+        "definition_en": "A speech or piece of writing that praises someone or something highly, typically someone who has just died.",
+        "definition_cn": "悼词",
+        "example": "His good friend delivered a brief eulogy."
+    },
+    {
+        "id": "110",
+        "word": "exacerbate",
+        "phonetic": "/ɪɡˈzæsərbeɪt/",
+        "definition_en": "Make (a problem, bad situation, or negative feeling) worse.",
+        "definition_cn": "恶化",
+        "example": "The exorbitant cost of land in urban areas only exacerbated the problem."
+    },
+    {
+        "id": "111",
+        "word": "exculpate",
+        "phonetic": "/ˈɛkskʌlpeɪt/",
+        "definition_en": "Show or declare that (someone) is not guilty of wrongdoing.",
+        "definition_cn": "开脱",
+        "example": "The article exculpated the mayor."
+    },
+    {
+        "id": "112",
+        "word": "exigent",
+        "phonetic": "/ˈɛksɪdʒənt/",
+        "definition_en": "Pressing; demanding.",
+        "definition_cn": "紧急的",
+        "example": "The exigent demands of the music took a toll on her voice."
+    },
+    {
+        "id": "113",
+        "word": "exonerate",
+        "phonetic": "/ɪɡˈzɒnəreɪt/",
+        "definition_en": "(especially of an official body) absolve (someone) from blame for a fault or wrongdoing, especially after due consideration of the case.",
+        "definition_cn": "免罪",
+        "example": "The court-martial exonerated me."
+    },
+    {
+        "id": "114",
+        "word": "explicit",
+        "phonetic": "/ɪkˈsplɪsɪt/",
+        "definition_en": "Stated clearly and in detail, leaving no room for confusion or doubt.",
+        "definition_cn": "明确的",
+        "example": "The speaker's intentions were not made explicit."
+    },
+    {
+        "id": "115",
+        "word": "fabricate",
+        "phonetic": "/ˈfæbrɪkeɪt/",
+        "definition_en": "Invent or concoct (something), typically with deceitful intent.",
+        "definition_cn": "伪造",
+        "example": "Officers fabricated evidence."
+    },
+    {
+        "id": "116",
+        "word": "facetious",
+        "phonetic": "/fəˈsiːʃəs/",
+        "definition_en": "Treating serious issues with deliberately inappropriate humor.",
+        "definition_cn": "爱开玩笑的",
+        "example": "A facetious remark."
+    },
+    {
+        "id": "117",
+        "word": "fallacy",
+        "phonetic": "/ˈfæləsi/",
+        "definition_en": "A mistaken belief, especially one based on unsound argument.",
+        "definition_cn": "谬误",
+        "example": "The notion that the camera never lies is a fallacy."
+    },
+    {
+        "id": "118",
+        "word": "fastidious",
+        "phonetic": "/fæˈstɪdiəs/",
+        "definition_en": "Very attentive to and concerned about accuracy and detail.",
+        "definition_cn": "挑剔的",
+        "example": "He chooses his words with fastidious care."
+    },
+    {
+        "id": "119",
+        "word": "fawn",
+        "phonetic": "/fɔːn/",
+        "definition_en": "(of a person) give a display of exaggerated flattery or affection, typically in order to gain favor or advantage.",
+        "definition_cn": "奉承",
+        "example": "They were fawning over the President."
+    },
+    {
+        "id": "120",
+        "word": "feasible",
+        "phonetic": "/ˈfiːzɪbəl/",
+        "definition_en": "Possible to do easily or conveniently.",
+        "definition_cn": "可行的",
+        "example": "It is not feasible to put most finds on public display."
+    },
+    {
+        "id": "121",
+        "word": "fervor",
+        "phonetic": "/ˈfɜːrvər/",
+        "definition_en": "Intense and passionate feeling.",
+        "definition_cn": "热情",
+        "example": "He talked with all the fervor of a new convert."
+    },
+    {
+        "id": "122",
+        "word": "fickle",
+        "phonetic": "/ˈfɪkəl/",
+        "definition_en": "Changing frequently, especially as regards one's loyalties, interests, or affection.",
+        "definition_cn": "易变的",
+        "example": "Web patrons are a notoriously fickle lot."
+    },
+    {
+        "id": "123",
+        "word": "flagrant",
+        "phonetic": "/ˈfleɪɡrənt/",
+        "definition_en": "(of something considered wrong or immoral) conspicuously or obviously offensive.",
+        "definition_cn": "公然的",
+        "example": "A flagrant violation of the law."
+    },
+    {
+        "id": "124",
+        "word": "flippant",
+        "phonetic": "/ˈflɪpənt/",
+        "definition_en": "Not showing a serious or respectful attitude.",
+        "definition_cn": "轻率的",
+        "example": "A flippant remark."
+    },
+    {
+        "id": "125",
+        "word": "florid",
+        "phonetic": "/ˈflɒrɪd/",
+        "definition_en": "Having a red or flushed complexion.",
+        "definition_cn": "红润的；华丽的",
+        "example": "A stout man with a florid face."
+    },
+    {
+        "id": "126",
+        "word": "foment",
+        "phonetic": "/foʊˈmɛnt/",
+        "definition_en": "Instigate or stir up (an undesirable or violent sentiment or course of action).",
+        "definition_cn": "煽动",
+        "example": "They accused him of fomenting political unrest."
+    },
+    {
+        "id": "127",
+        "word": "formidable",
+        "phonetic": "/ˈfɔːrmɪdəbəl/",
+        "definition_en": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+        "definition_cn": "可怕的；令人敬畏的",
+        "example": "A formidable opponent."
+    },
+    {
+        "id": "128",
+        "word": "fortuitous",
+        "phonetic": "/fɔːrˈtjuːɪtəs/",
+        "definition_en": "Happening by accident or chance rather than design.",
+        "definition_cn": "偶然的",
+        "example": "The similarity between the paintings may not be simply fortuitous."
+    },
+    {
+        "id": "129",
+        "word": "foster",
+        "phonetic": "/ˈfɒstər/",
+        "definition_en": "Encourage or promote the development of (something, typically something good).",
+        "definition_cn": "培养",
+        "example": "The teacher's task is to foster learning."
+    },
+    {
+        "id": "130",
+        "word": "frivolous",
+        "phonetic": "/ˈfrɪvələs/",
+        "definition_en": "Not having any serious purpose or value.",
+        "definition_cn": "轻浮的",
+        "example": "Rules to stop frivolous lawsuits."
+    },
+    {
+        "id": "131",
+        "word": "frugal",
+        "phonetic": "/ˈfruːɡəl/",
+        "definition_en": "Sparing or economical with regard to money or food.",
+        "definition_cn": "节俭的",
+        "example": "He led a remarkably frugal life."
+    },
+    {
+        "id": "132",
+        "word": "furtive",
+        "phonetic": "/ˈfɜːrtɪv/",
+        "definition_en": "Attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive.",
+        "definition_cn": "鬼鬼祟祟的",
+        "example": "They spent a furtive day together."
+    },
+    {
+        "id": "133",
+        "word": "garrulous",
+        "phonetic": "/ˈɡærələs/",
+        "definition_en": "Excessively talkative, especially on trivial matters.",
+        "definition_cn": "唠叨的",
+        "example": "Polonius is portrayed as a foolish, garrulous old man."
+    },
+    {
+        "id": "134",
+        "word": "genial",
+        "phonetic": "/ˈdʒiːniəl/",
+        "definition_en": "Friendly and cheerful.",
+        "definition_cn": "亲切的",
+        "example": "Waved to them in genial greeting."
+    },
+    {
+        "id": "135",
+        "word": "gluttony",
+        "phonetic": "/ˈɡlʌtəni/",
+        "definition_en": "Habitual greed or excess in eating.",
+        "definition_cn": "暴食",
+        "example": "She said plumpness was a sign of gluttony."
+    },
+    {
+        "id": "136",
+        "word": "grandiloquent",
+        "phonetic": "/ɡrænˈdɪləkwənt/",
+        "definition_en": "Pompous or extravagant in language, style, or manner.",
+        "definition_cn": "夸张的",
+        "example": "A grandiloquent celebration of Spanish glory."
+    },
+    {
+        "id": "137",
+        "word": "gregarious",
+        "phonetic": "/ɡrɪˈɡɛəriəs/",
+        "definition_en": "(of a person) fond of company; sociable.",
+        "definition_cn": "群居的",
+        "example": "He was a popular and gregarious man."
+    },
+    {
+        "id": "138",
+        "word": "guile",
+        "phonetic": "/ɡaɪl/",
+        "definition_en": "Sly or cunning intelligence.",
+        "definition_cn": "狡诈",
+        "example": "He used all his guile and guts to free himself from the muddle he was in."
+    },
+    {
+        "id": "139",
+        "word": "gullible",
+        "phonetic": "/ˈɡʌləbəl/",
+        "definition_en": "Easily persuaded to believe something; credulous.",
+        "definition_cn": "易受骗的",
+        "example": "An attempt to persuade a gullible public to spend their money."
+    },
+    {
+        "id": "140",
+        "word": "hackneyed",
+        "phonetic": "/ˈhæknid/",
+        "definition_en": "(of a phrase or idea) lacking significance through having been overused.",
+        "definition_cn": "陈腐的",
+        "example": "Hackneyed old sayings."
+    },
+    {
+        "id": "141",
+        "word": "haughty",
+        "phonetic": "/ˈhɔːti/",
+        "definition_en": "Arrogantly superior and disdainful.",
+        "definition_cn": "傲慢的",
+        "example": "A look of haughty disdain."
+    },
+    {
+        "id": "142",
+        "word": "hedonist",
+        "phonetic": "/ˈhiːdənɪst/",
+        "definition_en": "A person who believes that the pursuit of pleasure is the most important thing in life.",
+        "definition_cn": "享乐主义者",
+        "example": "She was living the life of a committed hedonist."
+    },
+    {
+        "id": "143",
+        "word": "hegemony",
+        "phonetic": "/hɪˈdʒɛməni/",
+        "definition_en": "Leadership or dominance, especially by one country or social group over others.",
+        "definition_cn": "霸权",
+        "example": "Germany was united under Prussian hegemony after 1871."
+    },
+    {
+        "id": "144",
+        "word": "heresy",
+        "phonetic": "/ˈhɛrəsi/",
+        "definition_en": "Belief or opinion contrary to orthodox religious (especially Christian) doctrine.",
+        "definition_cn": "异端",
+        "example": "Huss was burned for heresy."
+    },
+    {
+        "id": "145",
+        "word": "hierarchy",
+        "phonetic": "/ˈhaɪərɑːrki/",
+        "definition_en": "A system or organization in which people or groups are ranked one above the other according to status or authority.",
+        "definition_cn": "等级制度",
+        "example": "The initiative was with those lower down in the hierarchy."
+    },
+    {
+        "id": "146",
+        "word": "histrionic",
+        "phonetic": "/ˌhɪstriˈɒnɪk/",
+        "definition_en": "Overly theatrical or melodramatic in character or style.",
+        "definition_cn": "做作的",
+        "example": "A histrionic outburst."
+    },
+    {
+        "id": "147",
+        "word": "homogeneous",
+        "phonetic": "/ˌhɒməˈdʒiːniəs/",
+        "definition_en": "Of the same kind; alike.",
+        "definition_cn": "同类的",
+        "example": "Timbermen prefer to deal with homogeneous woods."
+    },
+    {
+        "id": "148",
+        "word": "iconoclast",
+        "phonetic": "/aɪˈkɒnəklæst/",
+        "definition_en": "A person who attacks cherished beliefs or institutions.",
+        "definition_cn": "反传统者",
+        "example": "An iconoclast who refused to be bound by tradition."
+    },
+    {
+        "id": "149",
+        "word": "idiosyncratic",
+        "phonetic": "/ˌɪdiəsɪŋˈkrætɪk/",
+        "definition_en": "Relating to idiocyncrasy; peculiar or individual.",
+        "definition_cn": "特质的",
+        "example": "She emerged as one of the great, idiosyncratic talents of the nineties."
+    },
+    {
+        "id": "150",
+        "word": "imminent",
+        "phonetic": "/ˈɪmɪnənt/",
+        "definition_en": "About to happen.",
+        "definition_cn": "即将来临的",
+        "example": "They were in imminent danger of being swept away."
+    },
+    {
+        "id": "151",
+        "word": "immutable",
+        "phonetic": "/ɪˈmjuːtəbəl/",
+        "definition_en": "Unchanging over time or unable to be changed.",
+        "definition_cn": "不可变的",
+        "example": "An immutable fact."
+    },
+    {
+        "id": "152",
+        "word": "impeccable",
+        "phonetic": "/ɪmˈpɛkəbəl/",
+        "definition_en": "(of behavior, performance, or appearance) in accordance with the highest standards of propriety; faultless.",
+        "definition_cn": "无瑕疵的",
+        "example": "A man of impeccable character."
+    },
+    {
+        "id": "153",
+        "word": "impetuous",
+        "phonetic": "/ɪmˈpɛtʃuəs/",
+        "definition_en": "Acting or done quickly and without thought or care.",
+        "definition_cn": "冲动的",
+        "example": "Her friend was headstrong and impetuous."
+    },
+    {
+        "id": "154",
+        "word": "implacable",
+        "phonetic": "/ɪmˈplækəbəl/",
+        "definition_en": "Unable to be placated.",
+        "definition_cn": "难和解的",
+        "example": "He was an implacable enemy of Ted's."
+    },
+    {
+        "id": "155",
+        "word": "implicit",
+        "phonetic": "/ɪmˈplɪsɪt/",
+        "definition_en": "Implied though not plainly expressed.",
+        "definition_cn": "含蓄的",
+        "example": "Comments seen as implicit criticism of the policies."
+    },
+    {
+        "id": "156",
+        "word": "impugn",
+        "phonetic": "/ɪmˈpjuːn/",
+        "definition_en": "Dispute the truth, validity, or honesty of (a statement or motive); call into question.",
+        "definition_cn": "指责",
+        "example": "The father does not impugn her capacity as a good mother."
+    },
+    {
+        "id": "157",
+        "word": "impulsive",
+        "phonetic": "/ɪmˈpʌlsɪv/",
+        "definition_en": "Acting or done without forethought.",
+        "definition_cn": "冲动的",
+        "example": "They had married as young impulsive teenagers."
+    },
+    {
+        "id": "158",
+        "word": "incipient",
+        "phonetic": "/ɪnˈsɪpiənt/",
+        "definition_en": "In an initial stage; beginning to happen or develop.",
+        "definition_cn": "初期的",
+        "example": "He could feel incipient anger building up."
+    },
+    {
+        "id": "159",
+        "word": "incisive",
+        "phonetic": "/ɪnˈsaɪsɪv/",
+        "definition_en": "(of a person or mental process) intelligently analytical and clear-thinking.",
+        "definition_cn": "敏锐的",
+        "example": "She was an incisive critic."
+    },
+    {
+        "id": "160",
+        "word": "incongruous",
+        "phonetic": "/ɪnˈkɒŋɡruəs/",
+        "definition_en": "Not in harmony or keeping with the surroundings or other aspects of something.",
+        "definition_cn": "不协调的",
+        "example": "The duffel coat looked incongruous with the black dress."
+    },
+    {
+        "id": "161",
+        "word": "indifferent",
+        "phonetic": "/ɪnˈdɪfərənt/",
+        "definition_en": "Having no particular interest or sympathy; unconcerned.",
+        "definition_cn": "冷漠的",
+        "example": "They seem indifferent to the plight of the poor."
+    },
+    {
+        "id": "162",
+        "word": "indigenous",
+        "phonetic": "/ɪnˈdɪdʒɪnəs/",
+        "definition_en": "Originating or occurring naturally in a particular place; native.",
+        "definition_cn": "本土的",
+        "example": "The indigenous peoples of Siberia."
+    },
+    {
+        "id": "163",
+        "word": "indigent",
+        "phonetic": "/ˈɪndɪdʒənt/",
+        "definition_en": "Poor; needy.",
+        "definition_cn": "贫穷的",
+        "example": "A charity for the relief of indigent artists."
+    },
+    {
+        "id": "164",
+        "word": "indolent",
+        "phonetic": "/ˈɪndələnt/",
+        "definition_en": "Wanting to avoid activity or exertion; lazy.",
+        "definition_cn": "懒惰的",
+        "example": "They were indolent and addicted to a life of pleasure."
+    },
+    {
+        "id": "165",
+        "word": "ineffable",
+        "phonetic": "/ɪnˈɛfəbəl/",
+        "definition_en": "Too great or extreme to be expressed or described in words.",
+        "definition_cn": "不可言喻的",
+        "example": "The ineffable natural beauty of the Everglades."
+    },
+    {
+        "id": "166",
+        "word": "inept",
+        "phonetic": "/ɪnˈɛpt/",
+        "definition_en": "Having or showing no skill; clumsy.",
+        "definition_cn": "笨拙的",
+        "example": "The inept handling of the threat."
+    },
+    {
+        "id": "167",
+        "word": "inert",
+        "phonetic": "/ɪnˈɜːrt/",
+        "definition_en": "Lacking the ability or strength to move.",
+        "definition_cn": "惰性的",
+        "example": "She lay inert in her bed."
+    },
+    {
+        "id": "168",
+        "word": "inexorable",
+        "phonetic": "/ɪnˈɛksərəbəl/",
+        "definition_en": "Impossible to stop or prevent.",
+        "definition_cn": "不可阻挡的",
+        "example": "The seemingly inexorable march of new technology."
+    },
+    {
+        "id": "169",
+        "word": "infamous",
+        "phonetic": "/ˈɪnfəməs/",
+        "definition_en": "Well known for some bad quality or deed.",
+        "definition_cn": "臭名昭著的",
+        "example": "An infamous war criminal."
+    },
+    {
+        "id": "170",
+        "word": "infer",
+        "phonetic": "/ɪnˈfɜːr/",
+        "definition_en": "Deduce or conclude (information) from evidence and reasoning rather than from explicit statements.",
+        "definition_cn": "推断",
+        "example": "From these facts we can infer that the crime was premeditated."
+    },
+    {
+        "id": "171",
+        "word": "ingenuous",
+        "phonetic": "/ɪnˈdʒɛnjuəs/",
+        "definition_en": "(of a person or action) innocent and unsuspecting.",
+        "definition_cn": "天真的",
+        "example": "He eyed her with wide, ingenuous eyes."
+    },
+    {
+        "id": "172",
+        "word": "inherent",
+        "phonetic": "/ɪnˈhɪərənt/",
+        "definition_en": "Existing in something as a permanent, essential, or characteristic attribute.",
+        "definition_cn": "固有的",
+        "example": "Any form of mountaineering has its inherent dangers."
+    },
+    {
+        "id": "173",
+        "word": "inimical",
+        "phonetic": "/ɪˈnɪmɪkəl/",
+        "definition_en": "Tending to obstruct or harm.",
+        "definition_cn": "有害的",
+        "example": "Actions inimical to our interests."
+    },
+    {
+        "id": "174",
+        "word": "innocuous",
+        "phonetic": "/ɪˈnɒkjuəs/",
+        "definition_en": "Not harmful or offensive.",
+        "definition_cn": "无害的",
+        "example": "It was an innocuous question."
+    },
+    {
+        "id": "175",
+        "word": "insatiable",
+        "phonetic": "/ɪnˈseɪʃəbəl/",
+        "definition_en": "(of an appetite or desire) impossible to satisfy.",
+        "definition_cn": "贪得无厌的",
+        "example": "An insatiable hunger for success."
+    },
+    {
+        "id": "176",
+        "word": "insidious",
+        "phonetic": "/ɪnˈsɪdiəs/",
+        "definition_en": "Proceeding in a gradual, subtle way, but with harmful effects.",
+        "definition_cn": "阴险的",
+        "example": "Sexually transmitted diseases can be insidious and sometimes without symptoms."
+    },
+    {
+        "id": "177",
+        "word": "insular",
+        "phonetic": "/ˈɪnsjʊlər/",
+        "definition_en": "Ignorant of or uninterested in cultures, ideas, or peoples outside one's own experience.",
+        "definition_cn": "狭隘的",
+        "example": "A stubbornly insular farming people."
+    },
+    {
+        "id": "178",
+        "word": "intangible",
+        "phonetic": "/ɪnˈtændʒɪbəl/",
+        "definition_en": "Unable to be touched or grasped; not having physical presence.",
+        "definition_cn": "无形的",
+        "example": "My assets are all intangible."
+    },
+    {
+        "id": "179",
+        "word": "interminable",
+        "phonetic": "/ɪnˈtɜːrmɪnəbəl/",
+        "definition_en": "Endless (often used hyperbolically).",
+        "definition_cn": "无休止的",
+        "example": "We got bogged down in interminable discussions."
+    },
+    {
+        "id": "180",
+        "word": "intractable",
+        "phonetic": "/ɪnˈtræktəbəl/",
+        "definition_en": "Hard to control or deal with.",
+        "definition_cn": "棘手的",
+        "example": "Intractable economic problems."
+    },
+    {
+        "id": "181",
+        "word": "intransigent",
+        "phonetic": "/ɪnˈtrænzɪdʒənt/",
+        "definition_en": "Unwilling or refusing to change one's views or to agree about something.",
+        "definition_cn": "不妥协的",
+        "example": "Her father had tried persuasion, but she was intransigent."
+    },
+    {
+        "id": "182",
+        "word": "intrepid",
+        "phonetic": "/ɪnˈtrɛpɪd/",
+        "definition_en": "Fearless; adventurous (often used for rhetorical or humorous effect).",
+        "definition_cn": "无畏的",
+        "example": "Our intrepid reporter."
+    },
+    {
+        "id": "183",
+        "word": "inundate",
+        "phonetic": "/ˈɪnʌndeɪt/",
+        "definition_en": "Overwhelm (someone) with things or people to be dealt with.",
+        "definition_cn": "淹没",
+        "example": "We've been inundated with complaints."
+    },
+    {
+        "id": "184",
+        "word": "inure",
+        "phonetic": "/ɪˈnjʊər/",
+        "definition_en": "Accustom (someone) to something, especially something unpleasant.",
+        "definition_cn": "使习惯",
+        "example": "These children have been inured to violence."
+    },
+    {
+        "id": "185",
+        "word": "inveterate",
+        "phonetic": "/ɪnˈvɛtərət/",
+        "definition_en": "Having a particular habit, activity, or interest that is long-established and unlikely to change.",
+        "definition_cn": "根深蒂固的",
+        "example": "He was an inveterate gambler."
+    },
+    {
+        "id": "186",
+        "word": "irascible",
+        "phonetic": "/ɪˈræsɪbəl/",
+        "definition_en": "Having or showing a tendency to be easily angered.",
+        "definition_cn": "易怒的",
+        "example": "An irascible, difficult man."
+    },
+    {
+        "id": "187",
+        "word": "irrevocable",
+        "phonetic": "/ɪˈrɛvəkəbəl/",
+        "definition_en": "Not able to be changed, reversed, or recovered; final.",
+        "definition_cn": "不可撤销的",
+        "example": "An irrevocable step."
+    },
+    {
+        "id": "188",
+        "word": "itinerant",
+        "phonetic": "/aɪˈtɪnərənt/",
+        "definition_en": "Traveling from place to place.",
+        "definition_cn": "巡回的",
+        "example": "Itinerant traders."
+    },
+    {
+        "id": "189",
+        "word": "jargon",
+        "phonetic": "/ˈdʒɑːrɡən/",
+        "definition_en": "Special words or expressions that are used by a particular profession or group.",
+        "definition_cn": "行话",
+        "example": "Legal jargon."
+    },
+    {
+        "id": "190",
+        "word": "jocular",
+        "phonetic": "/ˈdʒɒkjʊlər/",
+        "definition_en": "Fond of or characterized by joking; humorous or playful.",
+        "definition_cn": "诙谐的",
+        "example": "She sounded in a jocular mood."
+    },
+    {
+        "id": "191",
+        "word": "judicious",
+        "phonetic": "/dʒuːˈdɪʃəs/",
+        "definition_en": "Having, showing, or done with good judgment or sense.",
+        "definition_cn": "明智的",
+        "example": "The judicious use of public investment."
+    },
+    {
+        "id": "192",
+        "word": "juxtaposition",
+        "phonetic": "/ˌdʒʌkstəpəˈzɪʃən/",
+        "definition_en": "The fact of two things being seen or placed close together with contrasting effect.",
+        "definition_cn": "并列",
+        "example": "The juxtaposition of these two images."
+    },
+    {
+        "id": "193",
+        "word": "kinetic",
+        "phonetic": "/kɪˈnɛtɪk/",
+        "definition_en": "Relating to or resulting from motion.",
+        "definition_cn": "运动的",
+        "example": "Kinetic energy."
+    },
+    {
+        "id": "194",
+        "word": "laconic",
+        "phonetic": "/ləˈkɒnɪk/",
+        "definition_en": "(of a person, speech, or style of writing) using very few words.",
+        "definition_cn": "简洁的",
+        "example": "His laconic reply suggested a lack of interest."
+    },
+    {
+        "id": "195",
+        "word": "lament",
+        "phonetic": "/ləˈmɛnt/",
+        "definition_en": "A passionate expression of grief or sorrow.",
+        "definition_cn": "哀悼",
+        "example": "His mother's night-long laments for his father."
+    },
+    {
+        "id": "196",
+        "word": "languid",
+        "phonetic": "/ˈlæŋɡwɪd/",
+        "definition_en": "(of a person, manner, or gesture) displaying or having a disinclination for physical exertion or effort; slow and relaxed.",
+        "definition_cn": "倦怠的",
+        "example": "They turned with languid movements from back to front."
+    },
+    {
+        "id": "197",
+        "word": "latent",
+        "phonetic": "/ˈleɪtənt/",
+        "definition_en": "(of a quality or state) existing but not yet developed or manifest; hidden; concealed.",
+        "definition_cn": "潜在的",
+        "example": "Discovering her latent talent for diplomacy."
+    },
+    {
+        "id": "198",
+        "word": "laud",
+        "phonetic": "/lɔːd/",
+        "definition_en": "Praise (a person or their achievements) highly.",
+        "definition_cn": "赞美",
+        "example": "The obituary lauded him as a great statesman."
+    },
+    {
+        "id": "199",
+        "word": "legacy",
+        "phonetic": "/ˈlɛɡəsi/",
+        "definition_en": "An amount of money or property left to someone in a will.",
+        "definition_cn": "遗产",
+        "example": "My grandmother died and left me a small legacy."
+    },
+    {
+        "id": "200",
+        "word": "lethargic",
+        "phonetic": "/ləˈθɑːrdʒɪk/",
+        "definition_en": "Affected by lethargy; sluggish and apathetic.",
+        "definition_cn": "昏睡的",
+        "example": "I felt tired and a little lethargic."
     }
 ]
